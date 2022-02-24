@@ -1,0 +1,23 @@
+http://www.mospi.gov.in/statistical-year-book-india/2016/203
+
+Dataset name: 34.2 Monthly (Actual and Normal) Rainfall
+Years obvserved: 2010 - 2014
+
+Rainfall is observed monthly and in individual states of India.
+
+Total Number of variables:
+- 4320 cells of data
+- Observed Monthly
+- Observed per state
+- Record of actual and normal rainfall
+
+Aim:
+To device a predictive model to measure the rainfall for actaul and normal.
+
+Softwares Used & Purpose:
+- Excel (Data Preparation)
+- Knime (Data Cleaning)
+- Rattle (Regression Model & Accuracy Test)
+- Excel (Regression Model crosscheck)
+- Rattle (Clustering)
+

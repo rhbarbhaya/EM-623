@@ -1,0 +1,25 @@
+Table name: "Hazardous Alcohol Consumption (binge Drinking) by Sex, Age and Educational Attainment Level (%)"
+Table description: "For more details, visit http://epp.eurostat.ec.europa.eu/portal/page/portal/statistics/search_database"
+Table datapath: "gov.eu.eurostats.data.popul.hlth.hlth-det.hlth-alc.hlth-ehis-de6"
+
+-----
+
+column_name,column_description,column_id
+"Period of time (a=annual, q=quarterly, m=monthly, d=daily, c=cumulated from January)","Period of time (a=annual, q=quarterly, m=monthly, d=daily, c=cumulated from January)","time"
+"Sex","Sex","sex"
+"Age class","Age class","age"
+"Geopolitical entity (reporting)","Geopolitical entity (reporting)","geo"
+"International Standard Classification of Education (ISCED 1997)","International Standard Classification of Education (ISCED 1997)","isced97"
+"Day","Day","day"
+"Day Flag","Day Flag","day_flag"
+"Mth","Mth","mth"
+"Mth Flag","Mth Flag","mth_flag"
+"Week","Week","week"
+"Week Flag","Week Flag","week_flag"
+"Lt1m","Lt1m","lt1m"
+"Lt1m Flag","Lt1m Flag","lt1m_flag"
+"Nvr Occ","Nvr Occ","nvr_occ"
+"Nvr Occ Flag","Nvr Occ Flag","nvr_occ_flag"
+"Nbinge","Nbinge","nbinge"
+"Nbinge Flag","Nbinge Flag","nbinge_flag"
+"Serialid","Serialid","serialid"

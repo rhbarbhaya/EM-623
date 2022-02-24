@@ -1,0 +1,37 @@
+prediction.csv
+
+This csv takes an expanded view on character deaths, including predictions of how likely they are to die. (Prediction's come from A Song of Ice and Data's algorithm).
+
+S.No
+actual
+pred
+alive
+plod (percentage likelihood of death)
+name
+title
+male
+culture
+dateOfBirth
+DateoFdeath
+mother
+father
+heir
+house
+spouse
+book1
+book2
+book3
+book4
+book5
+isAliveMother
+isAliveFather
+isAliveHeir
+isAliveSpouse
+isMarried
+isNoble
+age
+numDeadRelations
+boolDeadRelations
+isPopular
+popularity
+isAlive

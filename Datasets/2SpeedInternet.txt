@@ -1,0 +1,27 @@
+Creating a Two-Speed Internet
+
+Dividing traffic on the Internet into fast and slow lanes is exactly what the Federal Communications Commission would do with its proposed regulations, unveiled this week. And no amount of reassurances about keeping competition alive will change that fact.
+
+Tom Wheeler, the chairman of the commission, is proposing that broadband providers — phone and cable companies — be allowed to charge fees for faster delivery of video and other data to consumers.
+
+This would be a totally new approach to Internet service. It would essentially give broadband companies the right to create the digital equivalent of high-occupancy vehicle lanes for content providers, like Netflix and Amazon, wealthy enough to pay a toll.
+
+In this new world, smaller content providers and start-ups that could not pay for preferential treatment might not be able to compete because their delivery speeds would be much slower. And consumers would have to pay more because any company that agrees to strike deals with phone and cable companies would undoubtedly pass on those costs to their users.
+
+The F.C.C. proposal claims to protect competition by requiring that any deal between a broadband company and a content provider be “commercially reasonable.” But figuring out what is reasonable will be very difficult, and the commission will struggle to enforce that standard. The rules would also prohibit broadband companies from blocking content by, for example, making it impossible for users to access a service like Skype that competes with their own products.
+
+If a majority of the five-member commission approves the proposal next month, it will be open to public comment before being finalized later this year. If adopted, this measure would be a huge victory for phone and cable companies that have consistently argued that services like Google, which owns YouTube, that transmit a lot of data should pay fees for the use of broadband networks.
+
+But the viability of those networks are based on decades of public investments in the Internet, the companies’ use of public rights of way and, in the case of some companies, a long government-sanctioned monopoly over telephone service. Public interest groups like the American Civil Liberties Union and Public Knowledge oppose the creation of two-tiered Internet service because it offers no public benefit, but would squelch innovation.
+
+Officials at the F.C.C. said on Thursday that the proposed rule is the fastest way for the commission to respond to a January ruling by the United States Court of Appeals for the District of Columbia Circuit that struck down previous rules barring broadband companies from blocking content or engaging in “unjust and unreasonable discrimination.”
+
+They argue that under the “commercially reasonable” standard, the agency will be able to review deals to make sure phone and cable companies do not abuse their market power (in most markets, there are only one or two service providers). But the proposal does not meaningfully prevent discrimination; it is largely a capitulation to the broadband industry.
+
+The commission should move in a wholly different direction. It should decide to classify broadband as a telecommunications service, which would allow it to prohibit companies like Verizon and Comcast from engaging in unjust or unreasonable discrimination. (The F.C.C. classified broadband as a lightly regulated information service during the George W. Bush administration.)
+
+Mr. Wheeler is seeking public comment on this option, but he is not in favor of it. Even though the appeals court has said the F.C.C. has authority to reclassify broadband, the agency has not done so because phone and cable companies, along with their mostly Republican supporters in Congress, strongly oppose it.
+
+The Internet has been a boon to the economy and to free speech because it is not divided into tiers and is open to everybody in the same way.
+
+In 2007, President Obama said one of the best things about the Internet “is that there is this incredible equality there” and charging “different rates to different websites” would destroy that principle. The proposal from Mr. Wheeler, an Obama appointee, would do just that.
