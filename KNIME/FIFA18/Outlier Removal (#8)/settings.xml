@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="MethodSetting_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="MethodSetting" type="xstring" value="Mean +- SD"/>
+<config key="FactorSetting_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_double"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="FactorSetting" type="xdouble" value="3.0"/>
+<config key="GroupingSetting_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="GroupingSetting" type="xstring" value="Overall"/>
+<config key="readouts_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_filterString"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="readouts">
+<config key="InclList">
+<entry key="array-size" type="xint" value="30"/>
+<entry key="0" type="xstring" value="Sr. No."/>
+<entry key="1" type="xstring" value="Age"/>
+<entry key="2" type="xstring" value="Special"/>
+<entry key="3" type="xstring" value="CAM"/>
+<entry key="4" type="xstring" value="CB"/>
+<entry key="5" type="xstring" value="CDM"/>
+<entry key="6" type="xstring" value="CF"/>
+<entry key="7" type="xstring" value="CM"/>
+<entry key="8" type="xstring" value="LAM"/>
+<entry key="9" type="xstring" value="LB"/>
+<entry key="10" type="xstring" value="LCB"/>
+<entry key="11" type="xstring" value="LCM"/>
+<entry key="12" type="xstring" value="LDM"/>
+<entry key="13" type="xstring" value="LF"/>
+<entry key="14" type="xstring" value="LM"/>
+<entry key="15" type="xstring" value="LS"/>
+<entry key="16" type="xstring" value="LW"/>
+<entry key="17" type="xstring" value="LWB"/>
+<entry key="18" type="xstring" value="RAM"/>
+<entry key="19" type="xstring" value="RB"/>
+<entry key="20" type="xstring" value="RCB"/>
+<entry key="21" type="xstring" value="RCM"/>
+<entry key="22" type="xstring" value="RDM"/>
+<entry key="23" type="xstring" value="RF"/>
+<entry key="24" type="xstring" value="RM"/>
+<entry key="25" type="xstring" value="RS"/>
+<entry key="26" type="xstring" value="RW"/>
+<entry key="27" type="xstring" value="RWB"/>
+<entry key="28" type="xstring" value="ST"/>
+<entry key="29" type="xstring" value="Overall"/>
+</config>
+<config key="ExclList">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<entry key="keep_all_columns_selected" type="xboolean" value="false"/>
+</config>
+<config key="Rule_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="Rule" type="xboolean" value="true"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="factory" type="xstring" value="de.mpicbg.knime.hcs.base.nodes.preproc.OutlierRemovalFactory"/>
+<entry key="node-name" type="xstring" value="Outlier Removal"/>
+<entry key="node-bundle-name" type="xstring" value="HCS-Tools for KNIME"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="de.mpicbg.knime.hcs.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG)"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.101.v201604271109"/>
+<entry key="node-feature-name" type="xstring" value="KNIME HCS Tools"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="de.mpicbg.tds.knime.hcstools.feature.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="Max Planck Institute of Molecular Cell Biology and Genetics (MPI-CBG)"/>
+<entry key="node-feature-version" type="xstring" value="3.1.101.v201604271109"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Outlier Removal"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 17981, Cols: 65"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+<config key="port_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 0, Cols: 65"/>
+<entry key="port_dir_location" type="xstring" value="port_2"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="697b1270-e3bb-4b1c-b70b-aa0c9bf64d85"/>
+</config>
+</config>

@@ -1,0 +1,180 @@
+
+{
+    "version":"3.5.2.v201802051426",
+    "created":"2018-02-12 19:43",
+    "nodestats":{
+        "nodes":[
+            {
+                "id":"org.knime.base.node.io.csvreader.CSVReaderNodeFactory#CSV Reader",
+                "nrexecs":17,
+                "nrfails":2,
+                "exectime":69599,
+                "nrcreated":7,
+                "successor":"org.knime.base.node.preproc.filter.missingvaluecolfilter.MissingValueColumnFilterNodeFactory#Missing Value Column Filter"
+            },
+            {
+                "id":"org.knime.base.node.preproc.filter.missingvaluecolfilter.MissingValueColumnFilterNodeFactory#Missing Value Column Filter",
+                "nrexecs":16,
+                "nrfails":0,
+                "exectime":1322,
+                "nrcreated":8,
+                "successor":"de.mpicbg.knime.hcs.base.nodes.preproc.OutlierRemovalFactory#Outlier Removal"
+            },
+            {
+                "id":"org.knime.base.node.preproc.normalize3.Normalizer3NodeFactory#Normalizer",
+                "nrexecs":17,
+                "nrfails":0,
+                "exectime":15673,
+                "nrcreated":6,
+                "successor":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer"
+            },
+            {
+                "id":"org.knime.base.node.stats.viz.extended.ExtendedStatisticsNodeFactory#Statistics",
+                "nrexecs":4,
+                "nrfails":0,
+                "exectime":4923,
+                "nrcreated":2,
+                "successor":"org.knime.ext.jfc.node.histogram.JfcHistogramChartNodeFactory#Histogram Chart (JFreeChart)"
+            },
+            {
+                "id":"org.knime.base.node.preproc.correlation.compute.CorrelationComputeNodeFactory#Linear Correlation",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":358,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"de.mpicbg.knime.hcs.base.nodes.preproc.OutlierRemovalFactory#Outlier Removal",
+                "nrexecs":12,
+                "nrfails":0,
+                "exectime":11422,
+                "nrcreated":5,
+                "successor":"org.knime.base.node.preproc.normalize3.Normalizer3NodeFactory#Normalizer"
+            },
+            {
+                "id":"org.knime.base.node.io.csvwriter.CSVWriterNodeFactory#CSV Writer",
+                "nrexecs":25,
+                "nrfails":4,
+                "exectime":8848,
+                "nrcreated":6,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.js.base.node.output.text.TextOutputNodeFactory#Text Output",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"com.knime.reporting.nodes.dataset.ReportingDataSetNodeFactory#Data to Report",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":2,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"com.knime.reporting.nodes.dataset.ReportingImageNodeFactory#Image to Report",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.stats.correlation.rank.RankCorrelationComputeNodeFactory#Rank Correlation",
+                "nrexecs":5,
+                "nrfails":0,
+                "exectime":693,
+                "nrcreated":2,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.mine.cluster.kmeans.ClusterNodeFactory2#k-Means",
+                "nrexecs":3,
+                "nrfails":1,
+                "exectime":483,
+                "nrcreated":2,
+                "successor":"org.knime.base.node.viz.plotter.scatter.ScatterPlotterNodeFactory#Scatter Plot"
+            },
+            {
+                "id":"org.knime.base.node.viz.plotter.scatter.ScatterPlotterNodeFactory#Scatter Plot",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":106,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.io.database.sampling.DBSamplingNodeFactory#Database Sampling",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.preproc.sample.SamplingNodeFactory#Row Sampling",
+                "nrexecs":1,
+                "nrfails":0,
+                "exectime":9,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.erlwood.knime.nodes.graph.NGraphNodeFactory#2D/3D Scatterplot",
+                "nrexecs":1,
+                "nrfails":0,
+                "exectime":6,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.viz.property.color.ColorManager2NodeFactory#Color Manager",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":2,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.base.node.viz.histogram.node.FixedColumnHistogramNodeFactory#Histogram",
+                "nrexecs":0,
+                "nrfails":0,
+                "exectime":0,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.ext.jfc.node.histogram.JfcHistogramChartNodeFactory#Histogram Chart (JFreeChart)",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":515,
+                "nrcreated":1,
+                "successor":"n/a"
+            },
+            {
+                "id":"org.knime.ext.poi2.node.read3.XLSReaderNodeFactory#Excel Reader (XLS)",
+                "nrexecs":2,
+                "nrfails":0,
+                "exectime":11587,
+                "nrcreated":1,
+                "successor":"org.knime.base.node.preproc.filter.missingvaluecolfilter.MissingValueColumnFilterNodeFactory#Missing Value Column Filter"
+            }
+        ],
+        "metaNodes":{
+        },
+        "wrappedNodes":{
+        }
+    },
+    "uptime":2308286,
+    "workflowsOpened":10,
+    "remoteWorkflowsOpened":0,
+    "launches":17,
+    "timeSinceLastStart":213330,
+    "crashes":0,
+    "properlyShutDown":true
+}

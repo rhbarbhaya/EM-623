@@ -1,0 +1,7 @@
+C:\Users\rhbar\Documents\FIFA predictive model prepared.csv
+C:\Users\rhbar\Documents\FIFA predictive model.csv
+D:\Personal Documents\Rushabh's Documents\Stevens\Engineering Management\EM 623 Data Sci\Datasets\1_FIFA18.csv
+D:\Personal Documents\Rushabh's Documents\Stevens\Engineering Management\EM 623 Data Sci\Datasets\FIFA18.csv
+D:\Personal Documents\Rushabh's Documents\Stevens\Engineering Management\EM 623 Data Sci\Homework\Homework 2\Outliers.csv
+D:\Personal Documents\Rushabh's Documents\Stevens\Engineering Management\EM 623 Data Sci\Homework\Homework 2\Normalized output.csv
+D:\Personal Documents\Rushabh's Documents\Stevens\Engineering Management\EM 623 Data Sci\Homework\Homework 2\Filtered Output.csv
